@@ -6,9 +6,9 @@ to automate work in ANSA.
 ## Description
 This Repo includes two scripts:
 
-*Free_Edge.py* - Creates a SET of shell elements having two or more Free edges.
+**Free_Edge.py** - Creates a SET of shell elements having two or more Free edges.
 
-*Master_slave.py* - Creates a table of master and slave PIDs based on user
+**Master_slave.py** - Creates a table of master and slave PIDs based on user
 selection. Makes it easy to copy and paste master and corresponding slave PIDs
 into other software (Hypermesh etc.).
 
