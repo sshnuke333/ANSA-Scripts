@@ -16,5 +16,5 @@ into other software (Hypermesh etc.).
 Requires no installation. Load the scripts using script manager available
 in ANSA and user buttons with script names will be generated.
 
-## Limiataions
+## Limitations
 These scripts work on first order shell elements only (Quads and Trias).
